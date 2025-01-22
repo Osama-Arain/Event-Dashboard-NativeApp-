@@ -1,0 +1,124 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "Orientation Day",
+      "date": "2025-01-15",
+      "time": "10:00 AM",
+      "venue": "Main Auditorium",
+      "description": "Welcome to all new students for the Orientation Program."
+    },
+    {
+      "id": 2,
+      "name": "Tech Fest 2025",
+      "date": "2025-02-10",
+      "time": "9:00 AM",
+      "venue": "Computer Science Hall",
+      "description": "A day full of workshops and tech exhibitions."
+    },
+    {
+      "id": 3,
+      "name": "Sports Day",
+      "date": "2025-03-05",
+      "time": "8:00 AM",
+      "venue": "Sports Ground",
+      "description": "Join us for the annual sports events."
+    },
+    {
+      "id": 4,
+      "name": "Qawwali Night",
+      "date": "2025-03-10",
+      "time": "8:00 PM",
+      "venue": "Cultural Hall",
+      "description": "An evening of soulful Qawwali performances."
+    },
+    {
+      "id": 5,
+      "name": "Art Exhibition",
+      "date": "2025-03-20",
+      "time": "11:00 AM",
+      "venue": "Art Gallery",
+      "description": "Experience beautiful art pieces by talented artists."
+    },
+    {
+      "id": 6,
+      "name": "Coding Hackathon",
+      "date": "2025-04-05",
+      "time": "10:00 AM",
+      "venue": "Innovation Lab",
+      "description": "Compete with peers to solve challenging coding problems."
+    },
+    {
+      "id": 7,
+      "name": "Startup Pitch Night",
+      "date": "2025-04-15",
+      "time": "6:00 PM",
+      "venue": "Auditorium 2",
+      "description": "Showcase your startup ideas to investors and mentors."
+    },
+    {
+      "id": 8,
+      "name": "Music Fest",
+      "date": "2025-05-01",
+      "time": "7:00 PM",
+      "venue": "Open Air Theater",
+      "description": "Enjoy live music performances from popular bands."
+    },
+    {
+      "id": 9,
+      "name": "Science Fair",
+      "date": "2025-05-10",
+      "time": "9:00 AM",
+      "venue": "Science Block",
+      "description": "Explore innovative science projects by students."
+    },
+    {
+      "id": 10,
+      "name": "Drama Night",
+      "date": "2025-06-05",
+      "time": "8:00 PM",
+      "venue": "Drama Studio",
+      "description": "Watch entertaining and thought-provoking drama performances."
+    },
+    {
+      "id": 11,
+      "name": "Photography Workshop",
+      "date": "2025-06-20",
+      "time": "2:00 PM",
+      "venue": "Room 205",
+      "description": "Learn photography techniques from professionals."
+    },
+    {
+      "id": 12,
+      "name": "Debate Competition",
+      "date": "2025-07-05",
+      "time": "10:00 AM",
+      "venue": "Conference Room",
+      "description": "Challenge yourself in this exciting debate competition."
+    },
+    {
+      "id": 13,
+      "name": "Alumni Meetup",
+      "date": "2025-07-20",
+      "time": "5:00 PM",
+      "venue": "Main Hall",
+      "description": "Reconnect with alumni and network with professionals."
+    },
+    {
+      "id": 14,
+      "name": "Yoga Session",
+      "date": "2025-08-01",
+      "time": "6:30 AM",
+      "venue": "Sports Ground",
+      "description": "Start your day fresh with a relaxing yoga session."
+    },
+    {
+      "id": 15,
+      "name": "Food Festival",
+      "date": "2025-08-15",
+      "time": "1:00 PM",
+      "venue": "Cafeteria Lawn",
+      "description": "Taste delicious cuisines from around the world."
+    }
+  ]
+}

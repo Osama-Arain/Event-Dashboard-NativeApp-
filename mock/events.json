@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Tech Conference 2025",
+      "date": "2025-01-15",
+      "time": "10:00 AM",
+      "venue": "Auditorium A",
+      "description": "An exciting conference on the future of technology."
+    },
+    {
+      "id": 2,
+      "name": "Art Exhibition",
+      "date": "2025-01-20",
+      "time": "2:00 PM",
+      "venue": "Gallery Hall",
+      "description": "A showcase of beautiful artwork by talented students."
+    },
+    {
+      "id": 4,
+      "name": "Azam",
+      "date": "2025-01-20",
+      "time": "2:00 PM",
+      "venue": "Gallery Hall",
+      "description": "HELLO WORLD"
+    }
+  ]
+  
